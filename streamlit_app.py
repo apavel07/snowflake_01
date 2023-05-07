@@ -1,6 +1,7 @@
 import pandas
 import streamlit
 import requests
+import snowflake.connector
 
 # https://apavel07-snowflake-01-streamlit-app-edh0as.streamlit.app/
 
